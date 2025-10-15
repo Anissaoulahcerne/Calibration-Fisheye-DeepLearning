@@ -54,6 +54,36 @@ Calibration-Fisheye-DeepLearning/
 └── .gitignore
 
 ---
+## Structure du dépôt
+```bash
+Calibration-Fisheye-DeepLearning/
+│
+├── models/
+│   ├── Modéle-U-Net.py
+│   ├── Modéle-GAN.py
+│   ├── README_U-Net.md
+│   └── README_GAN.md
+│
+├── weights/
+│   ├── generator.pth
+│   ├── discriminator.pth
+│   ├── calibration.pth
+│   ├── labels.txt
+│   └── data.pkl
+│
+├── datasets/
+│   ├── dataset1/
+│   ├── dataset2/
+│   └── dataset3/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
+Tout ce que tu écris **après cette ligne** sera interprété comme du texte normal et **ne fera plus partie du bloc de code**.  
+
+Si tu veux, je peux te montrer une **version “propre” du README** avec ce bloc fermé et un exemple de texte qui suit. Veux‑tu que je fasse ça ?
 
 
 
