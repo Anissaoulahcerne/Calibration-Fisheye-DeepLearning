@@ -42,8 +42,8 @@ Téléchargez les datasets depuis Google Drive et placez-les dans le dossier `da
 
 Les fichiers `.pth` pour le **GAN** et le **U-Net** sont disponibles ici :  
 [Google Drive](https://drive.google.com/drive/folders/1XjaXxvfmSOlxrZs0Qc8_0lm5qfgkENax?usp=drive_link)  
+placez-les dans le dossier `weights/`.
 
-Placez-les dans le dossier `weights/`.
 ---
 ##Modèles
 
