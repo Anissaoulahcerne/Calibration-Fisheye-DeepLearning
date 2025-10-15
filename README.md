@@ -37,7 +37,6 @@ Téléchargez les datasets depuis Google Drive et placez-les dans le dossier `da
 
 
 ---
----
 
 ### Poids pré-entraînés
 
