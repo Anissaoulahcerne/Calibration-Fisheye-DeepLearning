@@ -78,4 +78,9 @@ Dataset(1):https://drive.google.com/drive/folders/1JnSjtob2mJYqBvl2WgzQuTv1Ft0tU
 
 Dataset(2):https://drive.google.com/drive/folders/1LNd4joIgr1_t6KWVl3sFWSRAGve2ubUO?usp=drive_link
 
+4./Poids pré-entraînés
 
+Les fichiers .pth pour le GAN et U-Net sont disponibles sur Google Drive :
+Lien:https://drive.google.com/drive/folders/1XjaXxvfmSOlxrZs0Qc8_0lm5qfgkENax?usp=drive_link
+
+Placez-les dans le dossier weights/.
