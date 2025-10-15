@@ -58,53 +58,32 @@ Calibration-Fisheye-DeepLearning/
 ---
 
 
----
-
-## Datasets et poids pré-entraînés
-3./Datasets et poids pré-entraînés
-Datasets
-
-Téléchargez les datasets depuis Google Drive et placez-les dans le dossier datasets/ :
-
-Dataset(1):https://drive.google.com/drive/folders/1JnSjtob2mJYqBvl2WgzQuTv1Ft0tURgy?usp=drive_link
-
-Dataset(2):https://drive.google.com/drive/folders/1LNd4joIgr1_t6KWVl3sFWSRAGve2ubUO?usp=drive_link
-
----
-##4./Poids pré-entraînés
-
-Les fichiers .pth pour le GAN et U-Net sont disponibles sur Google Drive :
-Lien:https://drive.google.com/drive/folders/1XjaXxvfmSOlxrZs0Qc8_0lm5qfgkENax?usp=drive_link
-
-Placez-les dans le dossier weights/.
-
-
-## Installation
-
-### 1. Cloner le dépôt
-```bash
-git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
-cd Calibration-Fisheye-DeepLearning
-
-##Installer les dépendances Python
-pip install -r requirements.txt
-Remarque : GPU recommandé avec CUDA pour accélérer l’entraînement et l’inférence.
-
-
-
-
-
----
-## Installation
 
 ---
 
+## **Datasets et poids pré-entraînés**
 
+### **Datasets**
 
-## Installation
+Téléchargez les datasets depuis Google Drive et placez-les dans le dossier `datasets/` :
 
-### 1. Cloner le dépôt
+- **Dataset 1** : [Google Drive](https://drive.google.com/drive/folders/1JnSjtob2mJYqBvl2WgzQuTv1Ft0tURgy?usp=drive_link)  
+- **Dataset 2** : [Google Drive](https://drive.google.com/drive/folders/1LNd4joIgr1_t6KWVl3sFWSRAGve2ubUO?usp=drive_link)  
 
+---
+
+### **Poids pré-entraînés**
+
+Les fichiers `.pth` pour le **GAN** et le **U-Net** sont disponibles ici :  
+[Google Drive](https://drive.google.com/drive/folders/1XjaXxvfmSOlxrZs0Qc8_0lm5qfgkENax?usp=drive_link)  
+
+Placez-les dans le dossier `weights/`.
+
+---
+
+## **Installation**
+
+### **1. Cloner le dépôt**
 ```bash
 git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
 cd Calibration-Fisheye-DeepLearning
