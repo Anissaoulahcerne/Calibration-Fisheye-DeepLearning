@@ -56,7 +56,6 @@ Placez-les dans le dossier `weights/`.
 git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
 cd Calibration-Fisheye-DeepLearning
 
-
 ---
 Modèles
 
@@ -65,7 +64,7 @@ Voir les README spécifiques :
 README_U-Net.md
 
 README_GAN.md
-
+---
 Usage
 
 U-Net : rectification d’une image fisheye.
