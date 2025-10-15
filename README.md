@@ -44,7 +44,21 @@ Les fichiers `.pth` pour le **GAN** et le **U-Net** sont disponibles ici :
 [Google Drive](https://drive.google.com/drive/folders/1XjaXxvfmSOlxrZs0Qc8_0lm5qfgkENax?usp=drive_link)  
 
 Placez-les dans le dossier `weights/`.
+---
+##Modèles
 
+Voir les README spécifiques :
+
+README_U-Net.md
+
+README_GAN.md
+---
+##Usage
+
+- **U-Net**: rectification d’une image fisheye.
+- **GAN conditionnel**: rectification + estimation des paramètres caméra.
+
+Consultez les README spécifiques pour les instructions détaillées.
 ---
 ## Structure du dépôt
 ```bash
@@ -83,21 +97,7 @@ Calibration-Fisheye-DeepLearning/
 git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
 cd Calibration-Fisheye-DeepLearning
 
----
-##Modèles
 
-Voir les README spécifiques :
-
-README_U-Net.md
-
-README_GAN.md
----
-##Usage
-
-- **U-Net**: rectification d’une image fisheye.
-- **GAN conditionnel**: rectification + estimation des paramètres caméra.
-
-Consultez les README spécifiques pour les instructions détaillées.
 
 Licence
 
