@@ -45,20 +45,20 @@ Les fichiers `.pth` pour le **GAN** et le **U-Net** sont disponibles ici :
 placez-les dans le dossier `weights/`.
 
 ---
-##Modèles
+### Modèles
 
 Voir les README spécifiques :
 
 README_U-Net.md
-
 README_GAN.md
+
 ---
-##Usage
+### Usage
 
 - **U-Net**: rectification d’une image fisheye.
 - **GAN conditionnel**: rectification + estimation des paramètres caméra.
+Remarque:Consultez les README spécifiques pour les instructions détaillées
 
-Consultez les README spécifiques pour les instructions détaillées.
 ---
 ## Structure du dépôt
 ```bash
