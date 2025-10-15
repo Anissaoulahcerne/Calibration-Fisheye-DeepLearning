@@ -84,7 +84,7 @@ git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.g
 cd Calibration-Fisheye-DeepLearning
 
 ---
-Modèles
+##Modèles
 
 Voir les README spécifiques :
 
@@ -92,11 +92,10 @@ README_U-Net.md
 
 README_GAN.md
 ---
-Usage
+##Usage
 
-U-Net : rectification d’une image fisheye.
-
-GAN conditionnel : rectification + estimation des paramètres caméra.
+- **U-Net**: rectification d’une image fisheye.
+- **GAN conditionnel**: rectification + estimation des paramètres caméra.
 
 Consultez les README spécifiques pour les instructions détaillées.
 
