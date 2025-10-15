@@ -49,8 +49,8 @@ placez-les dans le dossier `weights/`.
 
 Voir les README spécifiques :
 
-README_U-Net.md
-README_GAN.md
+- README_U-Net.md
+- README_GAN.md
 
 ---
 ### Usage
