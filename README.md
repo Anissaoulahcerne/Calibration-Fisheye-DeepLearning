@@ -83,3 +83,7 @@ Placez-les dans le dossier `weights/`.
 ```bash
 git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
 cd Calibration-Fisheye-DeepLearning
+
+
+
+#2. Installer les dépendances Python
