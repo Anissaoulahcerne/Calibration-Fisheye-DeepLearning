@@ -31,10 +31,6 @@ L’approche permet de travailler sur des images réelles ou synthétiques sans 
 ---
 
 ## Structure du dépôt
-
-Calibration-Fisheye-DeepLearning/
-
-## Structure du dépôt
 ```bash
 Calibration-Fisheye-DeepLearning/
 │
@@ -60,9 +56,7 @@ Calibration-Fisheye-DeepLearning/
 ├── requirements.txt
 └── .gitignore
 
-
 ---
-
 
 3./Datasets et poids pré-entraînés
 Datasets
@@ -127,34 +121,6 @@ Le projet permet de corriger automatiquement la distorsion fisheye et d’estime
 
 ---
 
-## Structure du dépôt
-
-Calibration-Fisheye-DeepLearning/
-│
-├── models/
-│ ├── Modéle-U-Net.py
-│ ├── Modéle-GAN.py
-│ ├── README_U-Net.md
-│ └── README_GAN.md
-│
-├── weights/
-│ ├── generator.pth
-│ ├── discriminator.pth
-│ ├── calibration.pth
-│ ├── labels.txt
-│ └── data.pkl
-│
-├── datasets/
-│ ├── dataset1/
-│ ├── dataset2/
-│ └── dataset3/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
----
 
 ## Installation
 
