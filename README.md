@@ -56,14 +56,9 @@ Calibration-Fisheye-DeepLearning/
 └── .gitignore
 
 ---
+## Datasets et poids pré-entraînés
 
-
-
----
-
-## **Datasets et poids pré-entraînés**
-
-### **Datasets**
+### Datasets
 
 Téléchargez les datasets depuis Google Drive et placez-les dans le dossier `datasets/` :
 
@@ -72,7 +67,7 @@ Téléchargez les datasets depuis Google Drive et placez-les dans le dossier `da
 
 ---
 
-### **Poids pré-entraînés**
+### Poids pré-entraînés
 
 Les fichiers `.pth` pour le **GAN** et le **U-Net** sont disponibles ici :  
 [Google Drive](https://drive.google.com/drive/folders/1XjaXxvfmSOlxrZs0Qc8_0lm5qfgkENax?usp=drive_link)  
@@ -81,9 +76,10 @@ Placez-les dans le dossier `weights/`.
 
 ---
 
-## **Installation**
+## Installation
 
-### **1. Cloner le dépôt**
+### 1. Cloner le dépôt
+
 ```bash
 git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
 cd Calibration-Fisheye-DeepLearning
