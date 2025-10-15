@@ -27,6 +27,18 @@ Ce projet vise à corriger automatiquement la distorsion fisheye et à estimer l
 
 L’approche permet de travailler sur des images réelles ou synthétiques sans calibration manuelle, offrant des résultats précis et rapides.
 
+
+## Datasets et poids pré-entraînés
+
+### Datasets
+
+Téléchargez les datasets depuis Google Drive et placez-les dans le dossier `datasets/` :
+
+- **Dataset 1** : [Google Drive]("https://drive.google.com/drive/folders/1JnSjtob2mJYqBvl2WgzQuTv1Ft0tURgy?usp=drive_link")  
+- **Dataset 2** : [Google Drive](https://drive.google.com/drive/folders/1LNd4joIgr1_t6KWVl3sFWSRAGve2ubUO?usp=drive_link)  
+
+
+
 ---
 
 ## Structure du dépôt
