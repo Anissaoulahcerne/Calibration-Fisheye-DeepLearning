@@ -64,9 +64,10 @@ Remarque:Consultez les README spécifiques pour les instructions détaillées
 ## Installation
 
 ### Cloner le dépôt
-
+```bash
 git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
 cd Calibration-Fisheye-DeepLearning
+
 ---
 
 ## Structure du dépôt
