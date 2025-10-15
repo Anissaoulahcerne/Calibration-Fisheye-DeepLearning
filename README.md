@@ -60,6 +60,16 @@ README_GAN.md
 Remarque:Consultez les README spécifiques pour les instructions détaillées
 
 ---
+
+## Installation
+
+### 1. Cloner le dépôt
+
+```bash
+git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
+cd Calibration-Fisheye-DeepLearning
+---
+
 ## Structure du dépôt
 ```bash
 Calibration-Fisheye-DeepLearning/
@@ -85,23 +95,12 @@ Calibration-Fisheye-DeepLearning/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
 ---
-
-
-## Installation
-
-### 1. Cloner le dépôt
-
-```bash
-git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
-cd Calibration-Fisheye-DeepLearning
-
-
-
-Licence
+### Licence
 
 MIT License
+
+
 
 
 
