@@ -35,7 +35,7 @@ L’approche permet de travailler sur des images réelles ou synthétiques sans 
 Calibration-Fisheye-DeepLearning/
 
 ## Structure du dépôt
-
+```bash
 Calibration-Fisheye-DeepLearning/
 │
 ├── models/
