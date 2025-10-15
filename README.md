@@ -32,8 +32,7 @@ L’approche permet de travailler sur des images réelles ou synthétiques sans 
 
 Téléchargez les datasets depuis Google Drive et placez-les dans le dossier `datasets/` :
 
-- **Dataset 1** : [Google Drive]("https://drive.google.com/drive/folders/1JnSjtob2mJYqBvl2WgzQuTv1Ft0tURgy?usp=drive_link")
-- - **Dataset 1** : [Google Drive](https://drive.google.com/drive/folders/1LNd4joIgr1_t6KWVl3sFWSRAGve2ubUO?usp=drive_link)  
+- **Dataset 1** : [Google Drive](https://drive.google.com/drive/folders/1LNd4joIgr1_t6KWVl3sFWSRAGve2ubUO?usp=drive_link)  
 - **Dataset 2** : [Google Drive](https://drive.google.com/drive/folders/1LNd4joIgr1_t6KWVl3sFWSRAGve2ubUO?usp=drive_link)  
 
 
@@ -59,8 +58,39 @@ cd Calibration-Fisheye-DeepLearning
 
 
 ---
+Modèles
 
+Voir les README spécifiques :
 
+README_U-Net.md
+
+README_GAN.md
+
+Usage
+
+U-Net : rectification d’une image fisheye.
+
+GAN conditionnel : rectification + estimation des paramètres caméra.
+
+Consultez les README spécifiques pour les instructions détaillées.
+
+Licence
+
+MIT License
+
+---
+
+✅ Points clés pour que les titres apparaissent :  
+1. Utiliser `#` pour les titres (`#` = titre principal, `##` = sous-titre, `###` = sous-sous-titre).  
+2. Ne pas mettre de tirets `---` ou underscores à la place des `#`.  
+3. Laisser une ligne vide avant et après un titre pour que GitHub Markdown l’interprète correctement.  
+4. Pour les liens, utiliser `[texte](URL)`.
+
+---
+
+Si tu veux, je peux te **préparer le README complet prêt à copier avec tous les détails U-Net et GAN intégrés**, en markdown propre pour GitHub.  
+
+Veux‑tu que je fasse ça ?
 
 
 ## Structure du dépôt
