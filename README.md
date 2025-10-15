@@ -55,3 +55,27 @@ Calibration-Fisheye-DeepLearning/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+
+---
+
+## Installation
+
+1. Cloner le dépôt :
+```bash
+git clone https://github.com/Anissaoulahcerne/Calibration-Fisheye-DeepLearning.git
+cd Calibration-Fisheye-DeepLearning
+2./Installer les dépendances Python 
+pip install -r requirements.txt
+Remarque:GPU recommandé avec CUDA pour accélérer entraînement et inférence.
+
+3./Datasets et poids pré-entraînés
+Datasets
+
+Téléchargez les datasets depuis Google Drive et placez-les dans le dossier datasets/ :
+
+Dataset(1):https://drive.google.com/drive/folders/1JnSjtob2mJYqBvl2WgzQuTv1Ft0tURgy?usp=drive_link
+
+Dataset(2):https://drive.google.com/drive/folders/1LNd4joIgr1_t6KWVl3sFWSRAGve2ubUO?usp=drive_link
+
+
