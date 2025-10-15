@@ -46,6 +46,33 @@ Les fichiers `.pth` pour le **GAN** et le **U-Net** sont disponibles ici :
 Placez-les dans le dossier `weights/`.
 
 ---
+## Structure du dépôt
+```bash
+Calibration-Fisheye-DeepLearning/
+│
+├── models/
+│ ├── Modéle-U-Net.py
+│ ├── Modéle-GAN.py
+│ ├── README_U-Net.md
+│ └── README_GAN.md
+│
+├── weights/
+│ ├── generator.pth
+│ ├── discriminator.pth
+│ ├── calibration.pth
+│ ├── labels.txt
+│ └── data.pkl
+│
+├── datasets/
+│ ├── dataset1/
+│ ├── dataset2/
+│ └── dataset3/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+---
 
 
 ## Installation
@@ -76,51 +103,6 @@ Consultez les README spécifiques pour les instructions détaillées.
 Licence
 
 MIT License
-
----
-
-✅ Points clés pour que les titres apparaissent :  
-1. Utiliser `#` pour les titres (`#` = titre principal, `##` = sous-titre, `###` = sous-sous-titre).  
-2. Ne pas mettre de tirets `---` ou underscores à la place des `#`.  
-3. Laisser une ligne vide avant et après un titre pour que GitHub Markdown l’interprète correctement.  
-4. Pour les liens, utiliser `[texte](URL)`.
-
----
-
-Si tu veux, je peux te **préparer le README complet prêt à copier avec tous les détails U-Net et GAN intégrés**, en markdown propre pour GitHub.  
-
-Veux‑tu que je fasse ça ?
-
-
-## Structure du dépôt
-```bash
-Calibration-Fisheye-DeepLearning/
-│
-├── models/
-│ ├── Modéle-U-Net.py
-│ ├── Modéle-GAN.py
-│ ├── README_U-Net.md
-│ └── README_GAN.md
-│
-├── weights/
-│ ├── generator.pth
-│ ├── discriminator.pth
-│ ├── calibration.pth
-│ ├── labels.txt
-│ └── data.pkl
-│
-├── datasets/
-│ ├── dataset1/
-│ ├── dataset2/
-│ └── dataset3/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
-
-
 
 
 
